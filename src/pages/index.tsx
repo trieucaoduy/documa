@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Homepage`}
-      description="Description will go into a meta tag in <head />">
+      description="Documa">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
